@@ -3,7 +3,7 @@ Apellidos Bañol Colorado.
 Fecha: 14-1-2023.
 
 Estado del proyecto: Incompleto.
-El presente documento es una documentación de la meta del proyecto utilizando el lenguaje de programación JAVA, 
+El presente archivo es una documentación de la meta del proyecto utilizando el lenguaje de programación JAVA, 
 también se mencionara lo que se pretendia realizar para el proyecto debido a que no se terminó, debido a motivos 
 de falta de conocimiento y de no tener bases sólidas. El proyecto consiste en un generador de naves espaciales 
 desde la consola, el cual mostraba información en común sobre las naves espaciales, tales como: Nombre, 
