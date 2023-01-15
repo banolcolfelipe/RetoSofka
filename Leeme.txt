@@ -1,0 +1,21 @@
+Nombre: Juan Felipe.
+Apellidos Bañol Colorado.
+Fecha: 14-1-2023.
+
+Estado del proyecto: Incompleto.
+El presente documento es una documentación de la meta del proyecto utilizando el lenguaje de programación JAVA, 
+también se mencionara lo que se pretendia realizar para el proyecto debido a que no se terminó, debido a motivos 
+de falta de conocimiento y de no tener bases sólidas. El proyecto consiste en un generador de naves espaciales 
+desde la consola, el cual mostraba información en común sobre las naves espaciales, tales como: Nombre, 
+clasificación, peso en kg, el tipo de combustible que utilizaba y el fabricante, además, se realizó una investigación 
+sobre lo que realizaba cada nave y de esta manera se brindaba una simulación escrita. 
+
+Con respecto al inventario de las naves espaciales, se pretendia realizar una base de datos SQL, el cual contaba con 
+una ID única por usuario, con el fin de dicha ID sirviera de búsqueda del usuario y así encontrar las 9 naves espaciales 
+guardadas según el usuario.
+
+Como se mencionó anteriormente, carezco de ciertos conocimientos avanzados y de bases sólidas que deseo fortalecer con 
+el programa de canteras, soy una persona que le gusta aprender e investigar, además de buscar mejorar constantemente. 
+Por lo anterior, solicito la posibilidad de entrar en el programa de canteras para mi mejoramiento personal  y profesional,
+debido a que estoy interesado en entrar en Sofka como programador y seguir mejorando mis habilidades. Gracias por leer 
+mi documento, espero que tengan un buen día. 
